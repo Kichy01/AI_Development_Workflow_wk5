@@ -1,4 +1,4 @@
-Part 1: Short Answer Questions (30 points)
+Part 1: Short Answer Questions Assignment(30 points)
 1.Problem Definition (6 points)
 a) AI Problem:
 Online learning Student dropout prediction.
